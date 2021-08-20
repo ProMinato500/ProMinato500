@@ -1,12 +1,12 @@
-<h2> Hey there! I'm Pradipta.</h2>
+<h2> Hey there! I'm Pradipta</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science and Mathematics at University of Massachusetts Amherst.
-- 💼 &nbsp; Working as a Business Development Associate at VirtuBox InfoTech Private Limited.
-- 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
-- ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
+
+- 🎓 &nbsp; Studying Computer Science and Engineering (B.Tech) at SRM Institute of Science and Technology, Chennai.
+- 💼 &nbsp; Looking for new oppurtunities.
+- 🌱 &nbsp; Learning Full Stack Development and Data Science.
+- 🥰 &nbsp; Love to draw ✏️ and listen to music 🎵.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -40,12 +40,10 @@
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
-<p align="center">
-<!-- <a href=""><img alt="Website" src="https://img.shields.io/badge/Website-www.pradiptanandi.com-blue?style=flat-square&logo=google-chrome"></a> -->
-<a href="https://www.linkedin.com/in/AVS1508/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Pradipta%20Nandi-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/adityavs_/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-prominato500-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:nandip500@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-nandip500@gmail.com-blue?style=flat-square&logo=gmail"></a>
-</p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://www.facebook.com/ProMinato500"> <img src = "https://cdn1.iconfinder.com/data/icons/logotypes/32/square-facebook-256.png" height= 15px width = 15px> Facebook </a>&nbsp;&nbsp;
+<a href = "https://www.instagram.com/prominato/"><img src = "https://image.flaticon.com/icons/svg/174/174855.svg" height= 15px width = 15px> Instagram </a>&nbsp;&nbsp;
+<a href = "https://www.linkedin.com/in/pradipta-nandi-aa2245188/"><img src = "https://image.flaticon.com/icons/svg/174/174857.svg" height= 15px width = 15px> Linkedin </a>&nbsp;&nbsp;
+<!-- <a href = "Coming Soon"><img src = "https://image.flaticon.com/icons/svg/841/841364.svg" height= 15px width = 15px> Website </a> -->
 
 
 
