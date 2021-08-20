@@ -43,7 +43,7 @@
 <p align="center">
 <!-- <a href=""><img alt="Website" src="https://img.shields.io/badge/Website-www.pradiptanandi.com-blue?style=flat-square&logo=google-chrome"></a> -->
 <a href="https://www.linkedin.com/in/AVS1508/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Pradipta%20Nandi-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/adityavs_/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-prominato500__-blue?style=flat-square&logo=instagram"></a>
+<a href="https://www.instagram.com/adityavs_/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-prominato500-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:nandip500@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-nandip500@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
