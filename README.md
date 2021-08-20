@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.istockphoto.com/vectors/young-programmer-coding-a-new-project-vector-id873945208?k=6&m=873945208&s=612x612&w=0&h=uK16ynKHvJNPQgquxkwuOK7BRreQc5GKWtLSE869eo8=" height="900"/>
+  <img src="https://media.istockphoto.com/vectors/young-programmer-coding-a-new-project-vector-id873945208?k=6&m=873945208&s=612x612&w=0&h=uK16ynKHvJNPQgquxkwuOK7BRreQc5GKWtLSE869eo8=" height="500"/>
 </p>
 
 <h2> Hey there! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Pradipta</h2>
@@ -59,47 +59,6 @@
 <a target="_blank" href = "https://www.instagram.com/prominato/"><img src = "https://image.flaticon.com/icons/svg/174/174855.svg" height= 15px width = 15px> Instagram </a>&nbsp;&nbsp;
 <a target="_blank" href = "https://www.linkedin.com/in/pradipta-nandi-aa2245188/"><img src = "https://image.flaticon.com/icons/svg/174/174857.svg" height= 15px width = 15px> Linkedin </a>&nbsp;&nbsp;
 <!-- <a href = "Coming Soon"><img src = "https://image.flaticon.com/icons/svg/841/841364.svg" height= 15px width = 15px> Website </a> -->
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
