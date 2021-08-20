@@ -1,14 +1,17 @@
-<h2> Hey there! I'm Pradipta</h2>
+<h2> Hey there! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Pradipta</h2>
 
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me***
 
+<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
 - 🎓 &nbsp; Studying Computer Science and Engineering (B.Tech) at SRM Institute of Science and Technology, Chennai.
 - 💼 &nbsp; Looking for new oppurtunities.
 - 🌱 &nbsp; Learning Full Stack Development and Data Science.
-- 🥰 &nbsp; Love to draw ✏️ and listen to music 🎵.
+- 😎 &nbsp; Love to draw ✏️ and listen to music 🎵.
 
-<h3> 🛠 &nbsp;Tech Stack</h3>
+
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Tech Stack***
+<p align="left">
 
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
@@ -37,6 +40,11 @@
 </a>
 
 <br/>
+ <hr>
+
+
+<p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
+<img src="https://github-profile-trophy.vercel.app/?username=ProMinato500&theme=juicyfresh&no-bg=true" />
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
