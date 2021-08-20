@@ -3,7 +3,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... Discord Bot
+- 🔭 I’m currently studying in ... First Year at SRMIST, Ktr
 - 🌱 I’m currently learning ... React.js and Data Visualisation
 - 👯 I’m looking to collaborate on ... Data Analysis and Front-End Development
 - 🤔 I’m looking for help with ... React.Js
