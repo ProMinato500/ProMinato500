@@ -8,6 +8,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ... Data Analysis and Front-End Development
 - 🤔 I’m looking for help with ... React.Js
 - 💬 Ask me about ... Anything
-- 📫 How to reach me: ... [Email](nandip500@gmail.com)
+- 📫 How to reach me: ... [LinkedIn](https://www.linkedin.com/in/pradipta-nandi-aa2245188/)
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I love to play CODm
