@@ -41,7 +41,7 @@
 
 <br/>
 
-<a href="https://github.com/ProMinato500">
+<a align="center" href="https://github.com/ProMinato500">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ProMinato500&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProMinato500&theme=buefy&layout=compact" />
 </a>
@@ -53,13 +53,13 @@
 <p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
 <img src="https://github-profile-trophy.vercel.app/?username=ProMinato500&theme=juicyfresh&no-bg=true" />
 
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
-
+<h3 align="center"> 🤝🏻 &nbsp;Connect with Me </h3>
+<div align="center">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a target="_blank" href = "https://www.facebook.com/ProMinato500"> <img src = "https://cdn1.iconfinder.com/data/icons/logotypes/32/square-facebook-256.png" height= 15px width = 15px> Facebook </a>&nbsp;&nbsp;
 <a target="_blank" href = "https://www.instagram.com/prominato/"><img src = "https://image.flaticon.com/icons/svg/174/174855.svg" height= 15px width = 15px> Instagram </a>&nbsp;&nbsp;
 <a target="_blank" href = "https://www.linkedin.com/in/pradipta-nandi-aa2245188/"><img src = "https://image.flaticon.com/icons/svg/174/174857.svg" height= 15px width = 15px> Linkedin </a>&nbsp;&nbsp;
 <!-- <a href = "Coming Soon"><img src = "https://image.flaticon.com/icons/svg/841/841364.svg" height= 15px width = 15px> Website </a> -->
-
+</div>
 
 
 
