@@ -40,7 +40,7 @@
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
 
 <br/>
-
+<div align="center">
 <a align="center" href="https://github.com/ProMinato500">
   <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=ProMinato500&theme=buefy&show_icons=true" />
   <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProMinato500&theme=buefy&layout=compact" />
@@ -54,7 +54,7 @@
 <img align="center" src="https://github-profile-trophy.vercel.app/?username=ProMinato500&theme=juicyfresh&no-bg=true" />
 
 <h3 align="center"> 🤝🏻 &nbsp;Connect with Me </h3>
-<div align="center">
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a target="_blank" href = "https://www.facebook.com/ProMinato500"> <img src = "https://cdn1.iconfinder.com/data/icons/logotypes/32/square-facebook-256.png" height= 15px width = 15px> Facebook </a>&nbsp;&nbsp;
 <a target="_blank" href = "https://www.instagram.com/prominato/"><img src = "https://image.flaticon.com/icons/svg/174/174855.svg" height= 15px width = 15px> Instagram </a>&nbsp;&nbsp;
 <a target="_blank" href = "https://www.linkedin.com/in/pradipta-nandi-aa2245188/"><img src = "https://image.flaticon.com/icons/svg/174/174857.svg" height= 15px width = 15px> Linkedin </a>&nbsp;&nbsp;
