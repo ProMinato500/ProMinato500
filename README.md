@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.istockphoto.com/vectors/young-programmer-coding-a-new-project-vector-id873945208?k=6&m=873945208&s=612x612&w=0&h=uK16ynKHvJNPQgquxkwuOK7BRreQc5GKWtLSE869eo8=" height="500"/>
+  <img src="https://media.istockphoto.com/vectors/young-programmer-coding-a-new-project-vector-id873945208?k=6&m=873945208&s=612x612&w=0&h=uK16ynKHvJNPQgquxkwuOK7BRreQc5GKWtLSE869eo8=" height="400"/>
 </p>
 
 <h2> Hey there! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Pradipta</h2>
