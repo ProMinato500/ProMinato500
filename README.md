@@ -42,8 +42,8 @@
 <br/>
 
 <a align="center" href="https://github.com/ProMinato500">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ProMinato500&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProMinato500&theme=buefy&layout=compact" />
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=ProMinato500&theme=buefy&show_icons=true" />
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProMinato500&theme=buefy&layout=compact" />
 </a>
 
 <br/>
@@ -51,7 +51,7 @@
 
 
 <p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
-<img src="https://github-profile-trophy.vercel.app/?username=ProMinato500&theme=juicyfresh&no-bg=true" />
+<img align="center" src="https://github-profile-trophy.vercel.app/?username=ProMinato500&theme=juicyfresh&no-bg=true" />
 
 <h3 align="center"> 🤝🏻 &nbsp;Connect with Me </h3>
 <div align="center">
